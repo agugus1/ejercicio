@@ -8,3 +8,7 @@ abrir csv, mostrar las columnas gender y matscode mostrar la cantidad de filas y
 abrir el csv mostrar las 100 primeras filas mostrar la cantidad mostrar la ultima columna
 
 abrir el csv. mostrar todas la columnas menos la ultima. mostrar la primeras 7 filas. mostrar la cantidad de filas y columnas. mostrar la cantidad. mostrar las ultimas dos filas
+
+mostrar las columnas gender y mathscore. mostrar el tipo de dato de la columna gender.mostrar si hay filas o columnas vacias.
+mostrar la cantidad de filas y columnas que tiene.
+mostrar las ultimas 5 filas
