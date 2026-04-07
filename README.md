@@ -14,3 +14,12 @@ mostrar la cantidad de filas y columnas que tiene.
 mostrar las ultimas 5 filas
 
 abrir el csv mostrar las ultimas 3 columnas. mostrar las 100 rpimeras filas. mostrar la cantidad de las primeras columnas. mostrar si hay filas vacias. mostrar los diferentes tipos da datos de las colmunas
+
+
+funciones nuevas
+sum()
+min()
+may()
+count()
+
+abrir csv sumar la columna math score. encontrar el minimo y el maximo en la columa math score. contar los elementos en la columa math score
