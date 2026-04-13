@@ -23,3 +23,5 @@ may()
 count()
 
 abrir csv sumar la columna math score. encontrar el minimo y el maximo en la columa math score. contar los elementos en la columa math score
+
+abrir el csv, mostrar las columnas gender y math score, mostrar las primeras 8 filas. mostrar las ultimas 4 filas mostrar los tipos de dato de cada columna mostrar los espacios en blanco de cada columna
