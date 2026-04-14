@@ -17,11 +17,14 @@ abrir el csv mostrar las ultimas 3 columnas. mostrar las 100 rpimeras filas. mos
 
 
 funciones nuevas
-sum()
-min()
-may()
-count()
+sum
+min
+may
+count() cuenta la cantidad de valores por columna 
+shape cuenta la cantidad de filas y columnas 
+dtypes
+info() muestra los valores vacios 
 
-abrir csv sumar la columna math score. encontrar el minimo y el maximo en la columa math score. contar los elementos en la columa math score
+abrir csv sumar las columnas math score. encontar el minimo y el maximo en la columna math score. contar los elementos en la colunma math score
 
-abrir el csv, mostrar las columnas gender y math score, mostrar las primeras 8 filas. mostrar las ultimas 4 filas mostrar los tipos de dato de cada columna mostrar los espacios en blanco de cada columna
+abruel el csv.mostrar las columnas gender y matsh core mostrar las 8 filas ,mostrar la 4 ultimas filas mostrar los tipos de datos de cada columna.mostrar si hay un espacio si usar.contar cantidad de cda colmna (12py)
